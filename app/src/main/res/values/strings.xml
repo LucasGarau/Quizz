@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <string-array name="arraylist">
+        <item>Es la manzana roja</item>
+        <item>5</item>
+        <item>4</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
